@@ -1,5 +1,5 @@
 {
-  "client_id": "https://www.rpowell.me/bsky/client-metadata.json",
+  "client_id": "https://rpowell.me/public/bsky/client-metadata.json",
   "application_type": "native",
   "client_name": "Example iOS App",
   "dpop_bound_access_tokens": true,
